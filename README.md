@@ -1,6 +1,6 @@
 # Sales_Finance_Report_for_AtliQ_Hardware
 
-The AtliQ project report you're preparing covers essential aspects of sales and financial performance, which you've broken down effectively with tools like Power Query, Power Pivot, and DAX. Here's a recap with added clarity:
+
 
 ### Objective:
 AtliQ, a hardware company selling products like PCs, mice, and printers, provides data for building comprehensive sales and financial reports. The data comprises over 1.5 million records from two customer segments: Brick & Mortar (e.g., Croma, Best Buy) and E-commerce (e.g., Amazon, Flipkart).
