@@ -57,4 +57,3 @@ A P&L statement provides a detailed snapshot of the company’s financial health
 - **Gross Margin**
 - **Gross Margin % (GM%)**
 
-Let me know if you'd like to refine this further!
