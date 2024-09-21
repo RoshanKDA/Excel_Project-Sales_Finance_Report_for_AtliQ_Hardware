@@ -2,7 +2,7 @@
 
 
 
-###🎯 Objective:
+### 🎯 Objective:
 AtliQ, a hardware company selling products like PCs, mice, and printers, provides data for building comprehensive sales and financial reports. The data comprises over 1.5 million records from two customer segments: Brick & Mortar (e.g., Croma, Best Buy) and E-commerce (e.g., Amazon, Flipkart).
 
 ### Key Reports:
