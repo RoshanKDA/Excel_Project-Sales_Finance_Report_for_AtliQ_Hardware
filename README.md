@@ -5,7 +5,7 @@
 ### 🎯 Objective:
 AtliQ, a hardware company selling products like PCs, mice, and printers, provides data for building comprehensive sales and financial reports. The data comprises over 1.5 million records from two customer segments: Brick & Mortar (e.g., Croma, Best Buy) and E-commerce (e.g., Amazon, Flipkart).
 
-### 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
+### 📈 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
 
 ###  Sales Report :
 - **Customer Performance Report**
@@ -22,7 +22,7 @@ AtliQ, a hardware company selling products like PCs, mice, and printers, provide
 - **P&L by Market**
 - **Gross Margin (GM%) Quarterly**
 
-### Steps Involved:
+### ➡️  𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
 1. **ETL (Extract, Transform, Load)**: 
    - Loaded CSV files into Power Query.
    - Cleaned and prepared the data by removing duplicates, correcting errors, ensuring unique columns, and eliminating missing values.
@@ -43,7 +43,7 @@ AtliQ, a hardware company selling products like PCs, mice, and printers, provide
 5. **Conditional Formatting**:
    - Applied conditional formatting to highlight key data and trends, improving the presentation and readability for decision-making.
 
-### Key Insights:
+### 💡 Key Insights:
 - **Top Market**: India led with the highest net sales of $161.3 million, while Sweden had the lowest at $1.8 million.
 - **Best-Selling Product**: AQ Master Wired X1 MS sold 4.2 million units, whereas AQ Home Allin1 Gen2 had the lowest sales at 8.8k units.
 - **Festive Surge**: Significant sales and profit growth during October-December in India.
