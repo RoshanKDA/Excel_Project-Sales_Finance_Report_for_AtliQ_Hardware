@@ -5,7 +5,7 @@ AtliQ Hardware is stressed with Excel Files. Their Sales & Finance Teams are on 
 
 So as an aspiring Data Analyst, I have come up with some awesome Sales and Finance Analytics reports.
 
-### 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :-
+### 🎯 **Objective** :-
 AtliQ, a hardware company selling products like PCs, mice, and printers, provides data for building comprehensive sales and financial reports. The data comprises over 1.5 million records from two customer segments: Brick & Mortar (e.g., Croma, Best Buy) and E-commerce (e.g., Amazon, Flipkart).
 
 ### 📈 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟 :-
